@@ -11,7 +11,7 @@
 
 # XR Development for Beginners
 
-Azure Cloud Advocates at Microsoft are pleased to offer a 8-week, 25-lesson curriculum all about Extended Reality (XR) development. Each lesson includes a written lecture, a post-lesson quiz, supplemental resources, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+Azure Cloud Advocates at Microsoft are pleased to offer an 8-week, 25-lesson curriculum all about Extended Reality (XR) development. Each lesson includes a written lecture, a post-lesson quiz, supplemental resources, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
 
 **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum. If you would like to create your own lessons, we have also included a [lesson template](lesson-template/README.md). We'd love your feedback [via this form](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2eR-nl8h15Ig7UasgxKy9xURENNVUE0VkhBQzFaVzBMWjVQUUEzNkxVVy4u)!
 
@@ -49,8 +49,8 @@ This unit covers foundational concepts necessary to understand developing for an
 
 **Objectives**
 
-- Understand the concept of comfort and identify the different factors that play a role in enhancing a XR experience to feel real.
-- Understand the concept of coordinate systems and how these are used to mimic real world positioning.
+- Understand the concept of comfort and identify the different factors that play a role in enhancing an XR experience to feel real.
+- Understand the concept of coordinate systems and how these are used to mimic real-world positioning.
 - Understand how forces and pivots work and their importance in XR development.
 
 **Lessons**
@@ -130,7 +130,7 @@ This unit introduces the fundamentals of Unity development. Unity is a cross-pla
 
 **Objectives**
 
-- Demonstrate how to create and configure and Unity project.
+- Demonstrate how to create and configure a Unity project.
 - Become familiar with the Unity Editor UI.
 - Construct a Unity scene with GameObjects.
 
